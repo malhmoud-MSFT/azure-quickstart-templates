@@ -8,3 +8,5 @@
 This template creates a new Azure Search Service.
 
 If you are unclear as to what parameters are allowed you can check the [Azure Search Management REST API docs on MSDN](https://msdn.microsoft.com/en-us/library/azure/dn832687.aspx).
+
+https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-azure-search-create/azuredeploy.json
